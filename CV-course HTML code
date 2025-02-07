@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta property="og:title" content="My CV">
+    <title>My CV</title>
+    <link rel="icon" type="image/png" href="Sans-titre-1.ico">
+</head>
+<body style="border: 1px solid black; padding: 10px; margin: 0 auto; width: 600px;">
+    <hr style="width: 500px; height: 2px; background-color: black; border: none; text-align: center;">
+    <main style="width: 500px; margin: 0 auto;">
+        <h1>Corentin</h1>
+        <section id="activity">
+            <h2 style="color: green;">Junior Frontend Developer</h2>
+            <p>123 Your Street <br> Your city, ST 12345 <br> (123) 456-7890 <br> no_reply@gmail.com</p>
+        </section>
+        <section id="skills">
+            <h2 style="color: green;">Skills</h2>
+            <p>HTML, CSS, JavaScript, Accessibility, Figma to Design, Responsive Web design, etc...</p>
+        </section>
+        <section id="education">
+            <h2 style="color: green;">Education</h2>
+            <h3 style="color: blue;">School name, location - Degree</h3>
+            <p>Month 20xx to Month 20xx <br> List of exciting things you did at university</p>
+        </section>
+        <section id="experience">
+            <h2 style="color: green;">Experience</h2>
+            <h3 style="color: blue;">Job title, Company - Location</h3>
+            <p>Month 20xx to Month 20xx</p>
+            <ul style="padding: 1; margin: 1;">
+                <li>Responsibility</li>
+                <li>Responsibility</li>
+                <li>Responsibility</li>
+            </ul>
+            <p>Skills: list of skills used or gained at this company</p>
+            <h3 style="color: blue;">Job title, Company - Location</h3>
+            <p>Month 20xx to Month 20xx</p>
+            <ul style="padding: 1; margin: 1;">
+                <li>Responsibility</li>
+                <li>Responsibility</li>
+                <li>Responsibility</li>
+            </ul>
+            <p>Skills: list of skills used or gained at this company</p>
+        </section>
+        <footer>
+            <h2 style="color: green;">Across the internet</h2>
+            <p>Add your LinkedIn, GitHub profile Links</p>
+        </footer>
+    </main>
+</body>
+</html>
